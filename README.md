@@ -9,4 +9,4 @@ Italic commented style in minted may turn `$` into ``which is awful for`shell sc
 igor,
 
 Day non-italic comment style: staroffice,xcode,arduino,colorful,pastie,vs,perldoc,paraiso-light;  
-in which I'd like `colorful,pastie`.
+in which I'd like `colorful,pastie` because they're colorful. But the string have been set background color, which is not good for shellscript. May xcode is better.
