@@ -4,7 +4,7 @@
 
 <https://pygments.org/styles>
 
-Italic commented style in minted may turn `$` into ``which is awful for`shell scripts`.
+Italic commented style in minted may turn `$` into `£` which is awful for `shell scripts`.
 
 igor,
 
